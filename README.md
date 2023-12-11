@@ -1,4 +1,4 @@
-Hi 👋 My name is Andrew Rasskazov
+Hi 👋 My name is Andrew.
 =================================
 
 I'm a Java-developer
