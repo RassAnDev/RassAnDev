@@ -4,11 +4,12 @@ Hi 👋 My name is Andrew.
 I'm a Java-developer
 --------------------
 
-I got an [education](https://drive.google.com/drive/folders/10fgCc2we1LGINfdm9LfAZB3GlwOvqUur) as a Java developer on the Hexlet educational platform.
+I got an education as a Java developer on the Hexlet educational platform.
 
 * ✉️  You can contact me at [rassandev@gmail.com](mailto:rassandev@gmail.com)
+* ⚙️ I love JVM languages (Kotlin, Scala, Java)
 * 🌱 I’m currently learning Kotlin
-* ⚡  Looking for a job as a Java-developer
+* ⚡ My dream is to become a top-notch software developer.
 
 ### Skills
 
